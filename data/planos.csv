@@ -1,0 +1,5 @@
+id_plano,nome,valor_mensal,duracao_meses
+1,Mensal,99.90,1
+2,Trimestral,269.70,3
+3,Anual,899.00,12
+4,Semestral,509.40,6

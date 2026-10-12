@@ -1,0 +1,301 @@
+id_aluno,nome,email,cidade,id_plano,data_matricula,ativo
+1,Ana Souza,ana@email.com,Criciúma,1,2024-01-10,True
+2,Bruno Lima,bruno@email.com,Içara,3,2024-02-05,True
+3,Carla Mendes,carla@email.com,Criciúma,2,2024-03-12,True
+4,Diego Rocha,diego@email.com,Forquilhinha,1,2024-04-20,False
+5,Elisa Martins,elisa@email.com,Criciúma,3,2024-05-02,True
+6,Larissa Silva,larissa.silva6@email.com,Criciúma,1,2023-10-10,True
+7,Camila Vieira,camila.vieira7@email.com,Criciúma,1,2024-03-09,True
+8,Samuel Machado,samuel.machado8@email.com,Forquilhinha,1,2023-01-29,True
+9,André Nascimento,andre.nascimento9@email.com,Nova Veneza,1,2024-04-05,False
+10,Rodrigo Barbosa,rodrigo.barbosa10@email.com,Criciúma,1,2023-12-16,False
+11,Natália Pereira,natalia.pereira11@email.com,Içara,1,2023-04-06,True
+12,Vinícius Santos,vinicius.santos12@email.com,Forquilhinha,1,2024-04-16,False
+13,Camila Cardoso,camila.cardoso13@email.com,Morro da Fumaça,2,2023-10-29,False
+14,Leonardo Oliveira,leonardo.oliveira14@email.com,Morro da Fumaça,1,2023-02-17,True
+15,Camila Nascimento,camila.nascimento15@email.com,Içara,1,2023-04-15,True
+16,Isabela Rodrigues,isabela.rodrigues16@email.com,Criciúma,1,2024-01-16,True
+17,Rafael Machado,rafael.machado17@email.com,Forquilhinha,3,2023-06-26,True
+18,Marcelo Carvalho,marcelo.carvalho18@email.com,Morro da Fumaça,1,2023-08-14,True
+19,Juliana Nascimento,juliana.nascimento19@email.com,Criciúma,1,2023-02-03,True
+20,Henrique Almeida,henrique.almeida20@email.com,Içara,4,2024-05-27,True
+21,Beatriz Carvalho,beatriz.carvalho21@email.com,Criciúma,3,2023-05-24,True
+22,Tatiane Vieira,tatiane.vieira22@email.com,Criciúma,1,2024-02-14,False
+23,Samuel Teixeira,samuel.teixeira23@email.com,Criciúma,4,2023-04-05,True
+24,Rodrigo De Luca,rodrigo.de.luca24@email.com,Nova Veneza,1,2024-03-09,True
+25,Vanessa Moreira,vanessa.moreira25@email.com,Forquilhinha,4,2023-09-16,True
+26,Larissa De Luca,larissa.de.luca26@email.com,Morro da Fumaça,1,2023-10-02,True
+27,Rodrigo Dias,rodrigo.dias27@email.com,Criciúma,4,2023-01-05,True
+28,Samuel Pereira,samuel.pereira28@email.com,Morro da Fumaça,2,2023-11-03,True
+29,Jéssica Silva,jessica.silva29@email.com,Içara,1,2023-11-29,False
+30,Letícia Nascimento,leticia.nascimento30@email.com,Criciúma,4,2023-03-02,False
+31,Camila Teixeira,camila.teixeira31@email.com,Forquilhinha,3,2023-03-13,True
+32,Otávio Cardoso,otavio.cardoso32@email.com,Criciúma,2,2023-06-20,True
+33,Patrícia Cardoso,patricia.cardoso33@email.com,Criciúma,1,2023-07-26,True
+34,Isabela Dias,isabela.dias34@email.com,Içara,1,2024-06-14,True
+35,Natália Silva,natalia.silva35@email.com,Nova Veneza,1,2023-08-25,True
+36,Rafael Santos,rafael.santos36@email.com,Criciúma,2,2023-12-06,True
+37,Priscila Almeida,priscila.almeida37@email.com,Nova Veneza,2,2023-05-17,True
+38,Otávio Barbosa,otavio.barbosa38@email.com,Criciúma,1,2023-07-15,True
+39,Tatiane Barbosa,tatiane.barbosa39@email.com,Criciúma,3,2024-04-24,False
+40,Thiago Santos,thiago.santos40@email.com,Criciúma,4,2024-02-18,True
+41,Leonardo Almeida,leonardo.almeida41@email.com,Criciúma,1,2024-04-05,True
+42,Aline Oliveira,aline.oliveira42@email.com,Forquilhinha,1,2024-03-30,True
+43,Lucas Oliveira,lucas.oliveira43@email.com,Criciúma,1,2023-09-01,True
+44,Renata Santos,renata.santos44@email.com,Içara,1,2023-06-19,True
+45,Vanessa Gomes,vanessa.gomes45@email.com,Forquilhinha,3,2024-03-10,True
+46,Leonardo Gomes,leonardo.gomes46@email.com,Criciúma,2,2023-08-12,True
+47,Henrique Santos,henrique.santos47@email.com,Nova Veneza,2,2023-02-22,False
+48,Jéssica Rodrigues,jessica.rodrigues48@email.com,Forquilhinha,1,2023-03-01,True
+49,Rafael De Luca,rafael.de.luca49@email.com,Içara,1,2023-08-30,False
+50,Aline Vieira,aline.vieira50@email.com,Nova Veneza,1,2023-02-11,True
+51,Jéssica Ribeiro,jessica.ribeiro51@email.com,Criciúma,3,2023-09-26,True
+52,Vinícius Rocha,vinicius.rocha52@email.com,Morro da Fumaça,2,2023-05-16,True
+53,Rafael Silva,rafael.silva53@email.com,Nova Veneza,4,2024-04-15,False
+54,Rafael Cardoso,rafael.cardoso54@email.com,Forquilhinha,1,2023-08-08,False
+55,Rafael Nascimento,rafael.nascimento55@email.com,Criciúma,1,2024-01-15,True
+56,Letícia Machado,leticia.machado56@email.com,Criciúma,3,2024-06-26,True
+57,Thiago Ferreira,thiago.ferreira57@email.com,Criciúma,4,2023-09-29,True
+58,Eduardo Machado,eduardo.machado58@email.com,Criciúma,1,2023-08-05,True
+59,Vinícius Moreira,vinicius.moreira59@email.com,Criciúma,4,2024-05-16,True
+60,Camila Zanette,camila.zanette60@email.com,Criciúma,1,2024-03-10,True
+61,Gustavo Zanette,gustavo.zanette61@email.com,Criciúma,3,2023-09-27,True
+62,Tatiane Cardoso,tatiane.cardoso62@email.com,Criciúma,1,2023-01-11,False
+63,Beatriz Cardoso,beatriz.cardoso63@email.com,Criciúma,2,2023-02-07,True
+64,Gustavo Santos,gustavo.santos64@email.com,Criciúma,4,2023-11-13,True
+65,Pedro Martins,pedro.martins65@email.com,Morro da Fumaça,1,2023-08-05,True
+66,André Machado,andre.machado66@email.com,Criciúma,4,2023-06-09,False
+67,Fernanda Barbosa,fernanda.barbosa67@email.com,Criciúma,3,2023-01-27,True
+68,André De Luca,andre.de.luca68@email.com,Criciúma,1,2023-09-13,True
+69,Marcelo Santos,marcelo.santos69@email.com,Criciúma,1,2024-04-27,False
+70,Diogo Gomes,diogo.gomes70@email.com,Criciúma,1,2023-08-23,True
+71,Natália Carvalho,natalia.carvalho71@email.com,Criciúma,1,2023-03-14,True
+72,Larissa Carvalho,larissa.carvalho72@email.com,Nova Veneza,4,2023-07-03,True
+73,Thiago Machado,thiago.machado73@email.com,Criciúma,3,2024-03-21,True
+74,Marcelo Vieira,marcelo.vieira74@email.com,Criciúma,1,2023-07-15,True
+75,Jéssica Cardoso,jessica.cardoso75@email.com,Criciúma,1,2023-07-22,False
+76,Natália Machado,natalia.machado76@email.com,Morro da Fumaça,4,2023-11-19,True
+77,Letícia Moreira,leticia.moreira77@email.com,Morro da Fumaça,1,2023-11-14,True
+78,Eduardo Cardoso,eduardo.cardoso78@email.com,Criciúma,1,2023-05-12,False
+79,Fernanda Machado,fernanda.machado79@email.com,Içara,2,2023-11-06,True
+80,Eduardo Almeida,eduardo.almeida80@email.com,Nova Veneza,2,2024-03-17,True
+81,Caio Dias,caio.dias81@email.com,Forquilhinha,2,2023-08-08,False
+82,Camila Gomes,camila.gomes82@email.com,Morro da Fumaça,2,2024-06-12,True
+83,Aline De Luca,aline.de.luca83@email.com,Criciúma,4,2023-11-15,True
+84,Pedro Nascimento,pedro.nascimento84@email.com,Nova Veneza,4,2024-05-02,True
+85,André Zanette,andre.zanette85@email.com,Içara,2,2023-07-20,True
+86,Lucas Pereira,lucas.pereira86@email.com,Criciúma,1,2024-03-12,False
+87,Jéssica Dias,jessica.dias87@email.com,Forquilhinha,1,2023-02-22,True
+88,Vanessa Ferreira,vanessa.ferreira88@email.com,Morro da Fumaça,2,2024-04-21,True
+89,Henrique Dias,henrique.dias89@email.com,Içara,4,2024-06-01,True
+90,Rodrigo Teixeira,rodrigo.teixeira90@email.com,Criciúma,3,2024-04-06,True
+91,Bianca Moreira,bianca.moreira91@email.com,Morro da Fumaça,1,2024-05-12,True
+92,Eduardo Nascimento,eduardo.nascimento92@email.com,Criciúma,1,2023-10-07,True
+93,Gustavo Ferreira,gustavo.ferreira93@email.com,Içara,3,2023-08-26,True
+94,Rafael Barbosa,rafael.barbosa94@email.com,Criciúma,2,2024-02-23,True
+95,Patrícia Barbosa,patricia.barbosa95@email.com,Nova Veneza,4,2024-02-04,True
+96,Marcelo Teixeira,marcelo.teixeira96@email.com,Criciúma,1,2023-01-08,True
+97,André Cardoso,andre.cardoso97@email.com,Içara,1,2023-08-15,True
+98,Mariana Rocha,mariana.rocha98@email.com,Morro da Fumaça,3,2023-12-12,True
+99,Gustavo Machado,gustavo.machado99@email.com,Içara,2,2023-01-29,True
+100,Tatiane Ferreira,tatiane.ferreira100@email.com,Criciúma,1,2024-04-18,True
+101,Patrícia Dias,patricia.dias101@email.com,Criciúma,3,2023-12-02,True
+102,André Carvalho,andre.carvalho102@email.com,Içara,1,2023-03-26,True
+103,Diogo Nascimento,diogo.nascimento103@email.com,Morro da Fumaça,1,2023-03-13,True
+104,Aline Almeida,aline.almeida104@email.com,Nova Veneza,1,2023-01-22,True
+105,Larissa Vieira,larissa.vieira105@email.com,Içara,3,2023-08-13,True
+106,Rodrigo Machado,rodrigo.machado106@email.com,Criciúma,4,2023-04-29,True
+107,Mariana Gomes,mariana.gomes107@email.com,Içara,4,2024-01-21,True
+108,Aline Pereira,aline.pereira108@email.com,Morro da Fumaça,2,2023-11-06,True
+109,Tatiane De Luca,tatiane.de.luca109@email.com,Criciúma,2,2024-01-16,True
+110,André Teixeira,andre.teixeira110@email.com,Içara,4,2023-04-20,True
+111,Tatiane Rodrigues,tatiane.rodrigues111@email.com,Morro da Fumaça,1,2024-06-19,True
+112,Otávio Dias,otavio.dias112@email.com,Nova Veneza,1,2024-03-23,False
+113,Camila Carvalho,camila.carvalho113@email.com,Criciúma,3,2024-04-07,True
+114,Marcelo Ribeiro,marcelo.ribeiro114@email.com,Içara,4,2023-01-31,True
+115,Patrícia Martins,patricia.martins115@email.com,Criciúma,1,2023-09-23,True
+116,Bianca Cardoso,bianca.cardoso116@email.com,Forquilhinha,4,2023-01-12,True
+117,Aline Teixeira,aline.teixeira117@email.com,Içara,3,2024-05-18,True
+118,Matheus Rocha,matheus.rocha118@email.com,Criciúma,3,2023-09-08,True
+119,Jéssica Martins,jessica.martins119@email.com,Forquilhinha,1,2024-03-12,True
+120,Bianca Gomes,bianca.gomes120@email.com,Criciúma,1,2023-09-16,True
+121,Larissa Cardoso,larissa.cardoso121@email.com,Criciúma,1,2023-07-10,True
+122,Jéssica Machado,jessica.machado122@email.com,Criciúma,4,2023-10-18,True
+123,Letícia Silva,leticia.silva123@email.com,Criciúma,1,2023-05-11,True
+124,Eduardo Ferreira,eduardo.ferreira124@email.com,Criciúma,4,2024-05-18,True
+125,Otávio Teixeira,otavio.teixeira125@email.com,Criciúma,1,2024-03-28,True
+126,Otávio Pereira,otavio.pereira126@email.com,Içara,2,2023-03-09,True
+127,Juliana Ferreira,juliana.ferreira127@email.com,Nova Veneza,4,2023-06-03,True
+128,Matheus Moreira,matheus.moreira128@email.com,Içara,4,2024-01-26,True
+129,Tatiane Gomes,tatiane.gomes129@email.com,Nova Veneza,4,2023-03-04,True
+130,Patrícia Zanette,patricia.zanette130@email.com,Criciúma,3,2023-08-06,True
+131,Fernanda Cardoso,fernanda.cardoso131@email.com,Criciúma,1,2023-03-19,True
+132,Otávio Gomes,otavio.gomes132@email.com,Criciúma,1,2023-02-04,True
+133,Vanessa Oliveira,vanessa.oliveira133@email.com,Criciúma,3,2023-08-29,True
+134,Leonardo Barbosa,leonardo.barbosa134@email.com,Forquilhinha,1,2023-04-29,True
+135,Bianca Ferreira,bianca.ferreira135@email.com,Criciúma,1,2023-03-16,True
+136,Eduardo Dias,eduardo.dias136@email.com,Içara,3,2023-05-09,True
+137,Priscila Dias,priscila.dias137@email.com,Nova Veneza,1,2023-03-25,True
+138,Henrique Machado,henrique.machado138@email.com,Criciúma,1,2023-09-15,False
+139,Mariana De Luca,mariana.de.luca139@email.com,Nova Veneza,1,2023-10-04,True
+140,Otávio Moreira,otavio.moreira140@email.com,Criciúma,1,2024-03-29,True
+141,Priscila Oliveira,priscila.oliveira141@email.com,Criciúma,1,2024-04-27,True
+142,Thiago Rodrigues,thiago.rodrigues142@email.com,Içara,3,2023-12-05,True
+143,Renata Cardoso,renata.cardoso143@email.com,Içara,1,2023-02-08,True
+144,Larissa Rocha,larissa.rocha144@email.com,Criciúma,3,2024-06-11,True
+145,André Santos,andre.santos145@email.com,Forquilhinha,1,2023-07-13,True
+146,Caio Santos,caio.santos146@email.com,Criciúma,2,2023-07-29,False
+147,Caio Teixeira,caio.teixeira147@email.com,Criciúma,4,2023-05-06,True
+148,Aline Rodrigues,aline.rodrigues148@email.com,Forquilhinha,1,2023-11-16,True
+149,Matheus Pereira,matheus.pereira149@email.com,Criciúma,2,2024-04-18,True
+150,Eduardo Moreira,eduardo.moreira150@email.com,Içara,4,2023-10-08,False
+151,Aline Dias,aline.dias151@email.com,Içara,1,2023-05-30,True
+152,Gustavo Oliveira,gustavo.oliveira152@email.com,Içara,1,2023-10-11,True
+153,Bianca Silva,bianca.silva153@email.com,Criciúma,4,2023-10-18,True
+154,Priscila Ferreira,priscila.ferreira154@email.com,Forquilhinha,2,2024-04-03,True
+155,Marcelo Dias,marcelo.dias155@email.com,Criciúma,4,2023-11-27,True
+156,Marcelo Nascimento,marcelo.nascimento156@email.com,Criciúma,1,2024-02-26,True
+157,Marcelo Rocha,marcelo.rocha157@email.com,Içara,4,2023-06-06,True
+158,Caio Pereira,caio.pereira158@email.com,Içara,1,2024-06-23,True
+159,Beatriz Oliveira,beatriz.oliveira159@email.com,Criciúma,1,2024-04-26,True
+160,Camila Ribeiro,camila.ribeiro160@email.com,Criciúma,2,2024-01-26,False
+161,Priscila Cardoso,priscila.cardoso161@email.com,Nova Veneza,1,2023-02-07,True
+162,Camila Barbosa,camila.barbosa162@email.com,Morro da Fumaça,3,2023-04-12,True
+163,Rodrigo Gomes,rodrigo.gomes163@email.com,Criciúma,1,2023-01-31,True
+164,Diogo Martins,diogo.martins164@email.com,Criciúma,1,2024-03-18,True
+165,Fernanda Rodrigues,fernanda.rodrigues165@email.com,Criciúma,2,2023-06-30,True
+166,Beatriz Nascimento,beatriz.nascimento166@email.com,Morro da Fumaça,1,2024-04-18,True
+167,Lucas Dias,lucas.dias167@email.com,Morro da Fumaça,2,2023-10-23,True
+168,Diogo Vieira,diogo.vieira168@email.com,Morro da Fumaça,4,2023-11-04,True
+169,Leonardo Rocha,leonardo.rocha169@email.com,Criciúma,1,2024-05-10,True
+170,Eduardo Gomes,eduardo.gomes170@email.com,Morro da Fumaça,1,2023-01-24,True
+171,Juliana Machado,juliana.machado171@email.com,Criciúma,3,2024-05-24,True
+172,Leonardo Machado,leonardo.machado172@email.com,Morro da Fumaça,3,2023-09-15,True
+173,Thiago Zanette,thiago.zanette173@email.com,Criciúma,3,2023-02-11,True
+174,Isabela Ferreira,isabela.ferreira174@email.com,Criciúma,1,2023-04-04,True
+175,Leonardo Ferreira,leonardo.ferreira175@email.com,Forquilhinha,2,2024-01-11,True
+176,Rodrigo Carvalho,rodrigo.carvalho176@email.com,Criciúma,3,2024-05-09,True
+177,Larissa Dias,larissa.dias177@email.com,Criciúma,3,2023-03-20,True
+178,Isabela Oliveira,isabela.oliveira178@email.com,Criciúma,1,2024-02-10,True
+179,Isabela De Luca,isabela.de.luca179@email.com,Nova Veneza,1,2023-09-27,True
+180,Isabela Pereira,isabela.pereira180@email.com,Içara,1,2023-08-29,False
+181,Matheus Zanette,matheus.zanette181@email.com,Morro da Fumaça,4,2023-03-07,False
+182,Letícia Zanette,leticia.zanette182@email.com,Criciúma,1,2024-02-24,False
+183,Letícia Teixeira,leticia.teixeira183@email.com,Criciúma,1,2023-04-30,True
+184,André Vieira,andre.vieira184@email.com,Içara,3,2023-06-09,True
+185,Caio Nascimento,caio.nascimento185@email.com,Criciúma,4,2024-01-08,True
+186,Diogo Santos,diogo.santos186@email.com,Criciúma,1,2024-02-13,True
+187,Mariana Santos,mariana.santos187@email.com,Criciúma,4,2023-12-09,True
+188,Patrícia Oliveira,patricia.oliveira188@email.com,Nova Veneza,1,2023-08-02,False
+189,Natália Ferreira,natalia.ferreira189@email.com,Criciúma,4,2023-01-04,True
+190,Gustavo Cardoso,gustavo.cardoso190@email.com,Criciúma,1,2023-09-15,False
+191,Gustavo Silva,gustavo.silva191@email.com,Criciúma,2,2024-01-03,True
+192,Gustavo Barbosa,gustavo.barbosa192@email.com,Criciúma,3,2024-06-23,True
+193,Isabela Moreira,isabela.moreira193@email.com,Içara,2,2023-04-23,False
+194,Pedro De Luca,pedro.de.luca194@email.com,Criciúma,2,2024-06-18,False
+195,Juliana Teixeira,juliana.teixeira195@email.com,Içara,3,2024-02-17,True
+196,Caio Oliveira,caio.oliveira196@email.com,Criciúma,2,2023-03-25,True
+197,Bianca Machado,bianca.machado197@email.com,Içara,4,2023-11-30,True
+198,Tatiane Pereira,tatiane.pereira198@email.com,Morro da Fumaça,3,2023-04-29,True
+199,André Ribeiro,andre.ribeiro199@email.com,Içara,1,2024-04-10,True
+200,Tatiane Ribeiro,tatiane.ribeiro200@email.com,Criciúma,4,2023-09-20,True
+201,Otávio Oliveira,otavio.oliveira201@email.com,Criciúma,1,2023-04-05,True
+202,Juliana Vieira,juliana.vieira202@email.com,Morro da Fumaça,1,2023-12-05,True
+203,Tatiane Santos,tatiane.santos203@email.com,Nova Veneza,1,2023-10-23,True
+204,Samuel Almeida,samuel.almeida204@email.com,Morro da Fumaça,2,2023-06-09,True
+205,Diogo Cardoso,diogo.cardoso205@email.com,Criciúma,3,2024-01-13,True
+206,Mariana Machado,mariana.machado206@email.com,Criciúma,1,2023-10-02,True
+207,Letícia Ribeiro,leticia.ribeiro207@email.com,Criciúma,1,2023-12-27,True
+208,Renata Oliveira,renata.oliveira208@email.com,Morro da Fumaça,4,2023-05-27,True
+209,Jéssica Almeida,jessica.almeida209@email.com,Içara,2,2024-01-22,True
+210,Camila Santos,camila.santos210@email.com,Criciúma,3,2023-06-10,True
+211,Caio De Luca,caio.de.luca211@email.com,Içara,2,2024-03-11,True
+212,Patrícia Moreira,patricia.moreira212@email.com,Criciúma,1,2023-04-28,True
+213,Priscila Moreira,priscila.moreira213@email.com,Criciúma,1,2023-11-13,False
+214,Juliana Silva,juliana.silva214@email.com,Criciúma,4,2023-07-30,True
+215,Vinícius Gomes,vinicius.gomes215@email.com,Criciúma,1,2023-12-03,True
+216,Fernanda Ferreira,fernanda.ferreira216@email.com,Forquilhinha,3,2024-01-26,True
+217,Diogo Oliveira,diogo.oliveira217@email.com,Criciúma,1,2024-02-12,True
+218,Rafael Ribeiro,rafael.ribeiro218@email.com,Nova Veneza,1,2024-03-16,True
+219,Eduardo Pereira,eduardo.pereira219@email.com,Criciúma,4,2024-02-20,True
+220,Vanessa Martins,vanessa.martins220@email.com,Içara,4,2023-04-02,True
+221,Renata Moreira,renata.moreira221@email.com,Içara,4,2023-03-23,True
+222,Matheus Ribeiro,matheus.ribeiro222@email.com,Criciúma,2,2023-06-23,True
+223,Vinícius Almeida,vinicius.almeida223@email.com,Nova Veneza,1,2023-06-28,True
+224,Rafael Rodrigues,rafael.rodrigues224@email.com,Içara,3,2024-05-21,True
+225,Henrique Zanette,henrique.zanette225@email.com,Criciúma,1,2023-11-21,True
+226,Letícia Carvalho,leticia.carvalho226@email.com,Criciúma,2,2023-02-28,True
+227,Juliana Martins,juliana.martins227@email.com,Criciúma,2,2023-10-22,False
+228,Camila Machado,camila.machado228@email.com,Içara,2,2024-06-04,True
+229,Pedro Dias,pedro.dias229@email.com,Criciúma,2,2023-07-13,True
+230,Juliana Dias,juliana.dias230@email.com,Criciúma,4,2023-04-17,True
+231,Fernanda Santos,fernanda.santos231@email.com,Içara,4,2023-09-12,True
+232,Rodrigo Martins,rodrigo.martins232@email.com,Criciúma,1,2024-01-18,True
+233,Juliana Zanette,juliana.zanette233@email.com,Criciúma,1,2023-12-10,True
+234,Marcelo Gomes,marcelo.gomes234@email.com,Morro da Fumaça,4,2023-09-17,True
+235,Beatriz Ribeiro,beatriz.ribeiro235@email.com,Nova Veneza,3,2023-03-26,False
+236,Renata Ferreira,renata.ferreira236@email.com,Criciúma,2,2023-03-29,True
+237,Jéssica Oliveira,jessica.oliveira237@email.com,Forquilhinha,1,2024-03-10,True
+238,Fernanda Almeida,fernanda.almeida238@email.com,Içara,1,2023-12-17,False
+239,Samuel Cardoso,samuel.cardoso239@email.com,Criciúma,3,2024-06-24,False
+240,Marcelo Ferreira,marcelo.ferreira240@email.com,Criciúma,4,2023-06-17,True
+241,Pedro Barbosa,pedro.barbosa241@email.com,Morro da Fumaça,3,2024-01-10,False
+242,Matheus Cardoso,matheus.cardoso242@email.com,Criciúma,4,2023-09-03,True
+243,Leonardo Martins,leonardo.martins243@email.com,Içara,3,2024-03-28,True
+244,Samuel Moreira,samuel.moreira244@email.com,Criciúma,4,2024-03-05,True
+245,Gustavo Carvalho,gustavo.carvalho245@email.com,Morro da Fumaça,2,2023-02-24,True
+246,Thiago Moreira,thiago.moreira246@email.com,Criciúma,1,2023-05-09,True
+247,Caio Moreira,caio.moreira247@email.com,Içara,1,2023-06-01,False
+248,Caio Martins,caio.martins248@email.com,Içara,1,2023-01-29,True
+249,Aline Rocha,aline.rocha249@email.com,Criciúma,1,2023-03-26,True
+250,Eduardo Teixeira,eduardo.teixeira250@email.com,Içara,1,2023-05-24,True
+251,Camila Silva,camila.silva251@email.com,Criciúma,4,2023-09-21,True
+252,Jéssica Barbosa,jessica.barbosa252@email.com,Criciúma,1,2023-04-25,True
+253,Aline Barbosa,aline.barbosa253@email.com,Criciúma,1,2024-04-14,False
+254,Mariana Zanette,mariana.zanette254@email.com,Nova Veneza,1,2024-06-12,True
+255,Tatiane Silva,tatiane.silva255@email.com,Criciúma,2,2023-12-29,True
+256,Camila Moreira,camila.moreira256@email.com,Criciúma,4,2024-01-06,True
+257,Otávio Santos,otavio.santos257@email.com,Criciúma,1,2024-02-02,True
+258,Rafael Martins,rafael.martins258@email.com,Morro da Fumaça,2,2023-09-05,True
+259,Natália Zanette,natalia.zanette259@email.com,Morro da Fumaça,2,2023-06-30,True
+260,Rafael Dias,rafael.dias260@email.com,Criciúma,1,2023-02-08,True
+261,Pedro Ribeiro,pedro.ribeiro261@email.com,Forquilhinha,1,2023-11-15,True
+262,Otávio Carvalho,otavio.carvalho262@email.com,Morro da Fumaça,1,2023-02-08,True
+263,Larissa Martins,larissa.martins263@email.com,Içara,3,2024-03-24,False
+264,Fernanda Teixeira,fernanda.teixeira264@email.com,Criciúma,4,2024-05-25,True
+265,Eduardo Ribeiro,eduardo.ribeiro265@email.com,Criciúma,1,2023-04-17,True
+266,Caio Machado,caio.machado266@email.com,Criciúma,3,2024-03-13,True
+267,Tatiane Carvalho,tatiane.carvalho267@email.com,Criciúma,3,2023-03-01,True
+268,Samuel De Luca,samuel.de.luca268@email.com,Criciúma,1,2023-06-14,True
+269,Aline Zanette,aline.zanette269@email.com,Criciúma,1,2024-01-12,True
+270,Beatriz De Luca,beatriz.de.luca270@email.com,Criciúma,1,2024-04-06,True
+271,Gustavo Moreira,gustavo.moreira271@email.com,Içara,1,2024-01-12,True
+272,Jéssica Rocha,jessica.rocha272@email.com,Criciúma,3,2023-05-02,True
+273,Patrícia Machado,patricia.machado273@email.com,Içara,1,2023-10-21,True
+274,Fernanda Dias,fernanda.dias274@email.com,Morro da Fumaça,4,2023-04-01,False
+275,Rodrigo Zanette,rodrigo.zanette275@email.com,Criciúma,2,2023-06-29,True
+276,Mariana Martins,mariana.martins276@email.com,Içara,4,2024-01-14,True
+277,Camila Oliveira,camila.oliveira277@email.com,Içara,4,2023-11-14,True
+278,Rafael Ferreira,rafael.ferreira278@email.com,Morro da Fumaça,1,2023-11-22,True
+279,Tatiane Moreira,tatiane.moreira279@email.com,Criciúma,2,2023-02-27,True
+280,Rodrigo Ribeiro,rodrigo.ribeiro280@email.com,Criciúma,4,2023-08-20,True
+281,Eduardo Oliveira,eduardo.oliveira281@email.com,Criciúma,2,2023-09-15,True
+282,Rodrigo Vieira,rodrigo.vieira282@email.com,Criciúma,3,2023-06-08,True
+283,Natália Vieira,natalia.vieira283@email.com,Criciúma,1,2023-02-13,False
+284,Vinícius Zanette,vinicius.zanette284@email.com,Nova Veneza,1,2023-08-05,True
+285,Priscila Zanette,priscila.zanette285@email.com,Morro da Fumaça,4,2023-10-25,True
+286,Renata Gomes,renata.gomes286@email.com,Criciúma,3,2024-04-10,True
+287,Vanessa Almeida,vanessa.almeida287@email.com,Nova Veneza,1,2023-12-16,False
+288,Henrique Martins,henrique.martins288@email.com,Criciúma,3,2024-02-14,True
+289,Thiago Ribeiro,thiago.ribeiro289@email.com,Içara,1,2023-09-06,True
+290,Beatriz Pereira,beatriz.pereira290@email.com,Criciúma,4,2023-02-22,False
+291,Samuel Dias,samuel.dias291@email.com,Criciúma,2,2024-05-26,True
+292,Vanessa Nascimento,vanessa.nascimento292@email.com,Nova Veneza,1,2023-08-10,True
+293,Priscila Machado,priscila.machado293@email.com,Criciúma,2,2024-04-27,True
+294,Vinícius Martins,vinicius.martins294@email.com,Criciúma,1,2024-02-18,True
+295,Marcelo Moreira,marcelo.moreira295@email.com,Forquilhinha,1,2024-04-07,False
+296,Larissa Ferreira,larissa.ferreira296@email.com,Içara,1,2023-04-11,False
+297,Samuel Rocha,samuel.rocha297@email.com,Criciúma,1,2024-05-28,True
+298,Natália Teixeira,natalia.teixeira298@email.com,Içara,1,2024-06-16,False
+299,Gustavo Ribeiro,gustavo.ribeiro299@email.com,Criciúma,1,2023-11-24,True
+300,Letícia Vieira,leticia.vieira300@email.com,Forquilhinha,4,2023-12-12,True

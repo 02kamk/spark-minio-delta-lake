@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Ambiente virtual e segredos
+.venv
+.env
+
+# Spark / Delta
+spark-warehouse/
+derby.log
+metastore_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MkDocs (site gerado)
+site/

@@ -1,0 +1,70 @@
+site_name: Spark + Delta Lake com MinIO e SQL Server
+site_description: Trabalho 2 de Engenharia de Dados — pipeline SQL Server → MinIO (landing-zone) → Delta Lake (bronze) com Apache Spark
+site_author: Kamily Hilário das Luzes, Kauã Lucas Alves Barbosa
+site_url: https://02kamk.github.io/spark-minio-delta-lake/
+repo_url: https://github.com/02kamk/spark-minio-delta-lake
+repo_name: spark-minio-delta-lake
+edit_uri: edit/main/docs/
+
+nav:
+  - Contexto e arquitetura: index.md
+  - Cenário e modelo de dados: dados.md
+  - "SQL Server → Landing Zone": extracao.md
+  - "Bronze: Delta Lake e DML": delta.md
+  - Gerenciadas × não gerenciadas: gerenciadas.md
+
+theme:
+  name: material
+  language: pt-BR
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/02kamk/spark-minio-delta-lake

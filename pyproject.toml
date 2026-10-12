@@ -1,0 +1,22 @@
+[project]
+name = "spark-minio-delta-lake"
+version = "0.1.0"
+description = "Pipeline SQL Server -> MinIO (landing-zone, CSV) -> Delta Lake (bronze) com Apache Spark"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "boto3>=1.34",
+    "delta-spark==3.2.0",
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "pandas>=2.2",
+    "pyodbc>=5.1",
+    "pyspark==3.5.3",
+    "python-dotenv>=1.0",
+]
+
+[dependency-groups]
+dev = [
+    "mkdocs>=1.6.1,<2",
+    "mkdocs-material>=9.7.7,<10",
+]
